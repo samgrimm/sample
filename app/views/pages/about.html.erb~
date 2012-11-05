@@ -3,9 +3,9 @@
 	<head>
 		<title>Ruby on Rails Tutorial Sample App | <%= @title %></title>
 	<body>
-	<h1>Sample App</h1>
+	<h1>About us</h1>
 		<p>
-		This is the Home Page for <a href="http://railstutorial.org/" >Ruby on Rails Tutorial</a>
+		This is the About us Page for <a href="http://railstutorial.org/" >Ruby on Rails Tutorial</a>
 		Sample Application
 		</p>
 </body>		
