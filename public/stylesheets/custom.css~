@@ -1,0 +1,12 @@
+.container {
+	width: 710px;
+	}
+
+body {
+	backgroung: #cff;
+	}
+
+header {
+	padding-top: 20px;
+	}
+	
